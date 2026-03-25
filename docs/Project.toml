@@ -1,3 +1,6 @@
 [deps]
 Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
 HarveySutherland = "75d36f5e-971d-4f60-9cc8-d55b8a1a24f8"
+
+[compat]
+Documenter = "1.17.0"
